@@ -1,0 +1,9 @@
+{
+  "name": "Copy of LuminaCaption Ultra",
+  "description": "Turbo-speed auto-captioning and AI creative studio with Gemini 3 Pro and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
